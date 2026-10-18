@@ -1,7 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my project portfolio! I work with data to uncover
-insights, analyze business performance, and solve problems.
+Explore my Data Analytics Portfolio, showcasing hands-on projects focused on data cleaning, exploratory data analysis, business insights, and data visualisation. This portfolio demonstrates my analytical approach to solving problems and transforming raw data into meaningful insights using relevant data analytics tools and techniques.
 
 ## Technical Skills
 - SQL and Python
